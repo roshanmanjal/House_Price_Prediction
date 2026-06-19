@@ -2,8 +2,7 @@
 
 
 ### Project Overview
-
-This project was developed as part of the XYLOFY AI Internship Program. The objective was to build machine learning models that can predict house prices based on various property features and analyze the factors that influence pricing.
+The objective was to build machine learning models that can predict house prices based on various property features and analyze the factors that influence pricing.
 
 ### Dataset
 
@@ -66,6 +65,3 @@ Models Used:
 ### Author
 
 Roshan Manjal
-
-B.E. Artificial Intelligence & Data Science
-VESIT, Mumbai
